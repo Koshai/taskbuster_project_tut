@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"removeScene"
+			],
+			[
+				"paus",
+				"pauseReminder"
+			],
+			[
+				"ona",
+				"onLaneTouch"
+			],
+			[
+				"player",
+				"playerShoot"
+			],
+			[
+				"pause",
+				"pauseGame"
+			],
+			[
+				"btn",
+				"btn_menu_over"
+			],
+			[
+				"game",
+				"gamescreen"
+			],
+			[
+				"new",
+				"newText"
+			],
+			[
+				"on",
+				"onPauseTouch"
+			],
+			[
+				"c",
+				"collision"
+			],
+			[
+				"remo",
+				"removeEventListener"
+			],
+			[
+				"btn_",
+				"btn_returnToMenu"
+			],
+			[
+				"ret",
+				"returnToMenu"
+			],
+			[
+				"gam",
+				"gamescreen"
+			],
+			[
+				"gameover",
+				"gameoverBackground"
+			],
+			[
+				"rem",
+				"removeEventListener"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"object",
+				"object1"
+			],
+			[
+				"obje",
+				"object2"
+			],
+			[
+				"removeO",
+				"removeOnEnemyHit"
+			],
+			[
+				"enem",
+				"enemyHit"
+			],
+			[
+				"poo",
+				"poofSequenceData"
+			],
+			[
+				"poof",
+				"poofSheet"
+			],
+			[
+				"lives",
+				"livesCount"
+			],
+			[
+				"live",
+				"livesCount"
+			],
+			[
+				"send",
+				"sendEnemies"
+			],
+			[
+				"set",
+				"setSequence"
+			],
+			[
+				"enemy",
+				"enemyCounter"
+			],
+			[
+				"time",
+				"timeCounter"
+			],
+			[
+				"playerS",
+				"playerShootSpeed"
+			],
+			[
+				"bull",
+				"bullets"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"bul",
+				"bulletCounter"
+			],
+			[
+				"bullt",
+				"bulletTransition"
+			],
+			[
+				"bu",
+				"bulletCounter"
+			],
+			[
+				"bulle",
+				"bullets"
+			],
+			[
+				"buller",
+				"bulletCounter"
+			],
+			[
+				"pla",
+				"playerWall"
+			],
+			[
+				"fun",
+				"function\tfunction"
+			],
+			[
+				"lo",
+				"loopCount"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"hide",
+				"hideWarningMessage"
+			],
+			[
+				"wa",
+				"warningMessage"
+			],
+			[
+				"load",
+				"loadTable"
+			],
+			[
+				"scen",
+				"sceneTitle"
+			],
+			[
+				"l",
+				"liveslevel"
+			],
+			[
+				"la",
+				"labelYOffset"
+			],
+			[
+				"label",
+				"labelColor"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"_",
+				"_CY"
+			],
+			[
+				"sc",
+				"sceneGroup"
+			],
+			[
+				"scene",
+				"sceneGroup"
+			],
+			[
+				"_C",
+				"_CX"
+			],
+			[
+				"mo",
+				"movePirate"
+			],
+			[
+				"menu",
+				"menuscreen"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"scne",
+				"sceneGroup"
+			],
+			[
+				"ba",
+				"backgroundOverlay"
+			],
+			[
+				"con",
+				"contentHeight"
+			],
+			[
+				"conte",
+				"contentWidth"
+			],
+			[
+				"p",
+				"positionX"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"prin",
+				"printName"
+			],
+			[
+				"year",
+				"yearBorn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "taskbuster/urls.py",
+			"settings":
+			{
+				"buffer_size": 423,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taskbuster/views.py",
+			"settings":
+			{
+				"buffer_size": 240,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taskbuster/templates/robots.txt",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taskbuster/templates/humans.txt",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/koshai/Documents/taskbuster_project",
+		"/Users/koshai/Documents/taskbuster_project/functional_tests",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/static",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/static/css",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/templates",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/templates/taskbuster"
+	],
+	"file_history":
+	[
+		"/Users/koshai/Documents/taskbuster_project/functional_tests/test_all_users.py",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/templates/base.html",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/templates/taskbuster/index.html",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/static/css/main.css",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/settings/base.py",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/urls.py",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/views.py",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/test.py",
+		"/Users/koshai/.virtualenvs/tb_dev/bin/predeactivate",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/settings/production.py",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/settings/testing.py",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/settings/development.py",
+		"/Users/koshai/.virtualenvs/tb_dev/bin/postactivate",
+		"/Users/koshai/Documents/taskbuster_project/taskbuster/settings/staging.py",
+		"/Users/koshai/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/routes/students/new.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/admin/invitations.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/index.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/models/invitation.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/routes/index.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/students/index.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/styles/app.scss",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/router.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/routes/students/edit.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/students/edit.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/routes/students/index.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/firebase.json",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/admin/contacts.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/routes/admin/contacts.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/routes/admin/invitations.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/students/new.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/contact.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/routes/contact.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/config/environment.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/controllers/index.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/models/contact.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/navbar.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/students.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/controllers/contact.js",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/application.hbs",
+		"/Users/koshai/Desktop/emberprojects/student-app/app/templates/about.hbs",
+		"/Users/koshai/Desktop/embershit/todo-ember/app/styles/app.css",
+		"/Users/koshai/Desktop/embershit/ember-quickstart/app/routes/scientists.js",
+		"/Users/koshai/Desktop/embershit/ember-quickstart/app/templates/components/people-list.hbs",
+		"/Users/koshai/Desktop/embershit/ember-quickstart/app/templates/scientists.hbs",
+		"/Users/koshai/Desktop/embershit/ember-quickstart/app/templates/application.hbs",
+		"/Users/koshai/Documents/CoronaStuff/Ninjas vs Pirates Shell/scene_game.lua",
+		"/Users/koshai/Documents/CoronaStuff/Ninjas vs Pirates Shell/scene_upgrades.lua",
+		"/Users/koshai/Documents/CoronaStuff/Ninjas vs Pirates Shell/scene_menu.lua",
+		"/Users/koshai/Documents/CoronaStuff/Ninjas vs Pirates Shell/main.lua",
+		"/Users/koshai/Documents/CoronaStuff/Highway Dodge/main.lua",
+		"/Users/koshai/Documents/CoronaStuff/Highway Dodge/scene_game.lua",
+		"/Users/koshai/Documents/CoronaStuff/Highway Dodge/scene_menu.lua",
+		"/Users/koshai/Documents/CoronaStuff/Highway Dodge/config.lua",
+		"/Users/koshai/Documents/CoronaStuff/sideScroller/main.lua",
+		"/Users/koshai/Documents/CoronaStuff/scope/main.lua",
+		"/Users/koshai/Documents/CoronaStuff/variables/main.lua",
+		"/Users/koshai/Documents/CoronaStuff/Tutorial thing/main.lua",
+		"/Users/koshai/Documents/test/test.php",
+		"/Users/koshai/Desktop/ReactProject/prod/albums/index.ios.js",
+		"/Users/koshai/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/koshai/Desktop/ReactProject/prod/albums/.eslintrc",
+		"/Applications/MAMP/htdocs/first/wp-content/themes/shape/content.php",
+		"/Applications/MAMP/htdocs/first/wp-content/themes/shape/inc/template-tags.php",
+		"/Applications/MAMP/htdocs/first/wp-content/themes/shape/content-aside.php",
+		"/Applications/MAMP/htdocs/first/wp-content/themes/shape/no-results.php",
+		"/Applications/MAMP/htdocs/first/wp-content/themes/shape/content-single.php",
+		"/Applications/MAMP/htdocs/first/wp-content/themes/shape/single.php",
+		"/Applications/MAMP/htdocs/first/wp-content/themes/shape/index.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "taskbuster/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "taskbuster/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "taskbuster/templates/robots.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "taskbuster/templates/humans.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TaskBuster.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
